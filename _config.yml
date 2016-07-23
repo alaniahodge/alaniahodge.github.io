@@ -11,7 +11,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://lphipena.github.io/
-baseurl: /  
+baseurl: / 
 title: Alania Marie Hodge 
 author: Alania Marie Hodge 
 description: Personal blog and resume
@@ -19,7 +19,7 @@ avatar: profile.png
 email: amhodge4@yahoo.com
 github: lphipena.github.io.git # username
 twitter: username
-linkedin: username
+linkedin: alania-hodge-a70658a4
 stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 disqus: username
