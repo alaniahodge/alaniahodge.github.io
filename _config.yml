@@ -1,5 +1,5 @@
 # top level stuff you probably don't need to touch
-highlighter: pygments
+highlighter: rouge 
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
@@ -12,13 +12,13 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://lphipena.github.io/
-baseurl: 
+baseurl: /  
 title: Alania Hodge 
 author: Alania Hodge 
 description: Personal blog and resume
 avatar: profile.png
 email: yourname@email.com
-github: lphipena.github.io # username
+github: lphipena.github.io.git # username
 twitter: username
 linkedin: username
 stackoverflow: username   #e.g: users/2735833/proton1h1
