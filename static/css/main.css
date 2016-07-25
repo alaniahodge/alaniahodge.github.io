@@ -34,6 +34,7 @@ body {
 }
 .navbar-default .navbar-brand {
   color: #6b6b6b;
+  width: 10px;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
   color: #6b6b6b;
