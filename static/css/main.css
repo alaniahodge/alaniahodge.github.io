@@ -6,7 +6,10 @@ body {
   background-color: #ffffff;
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 20px solid #600080;
+  border-top: 15px solid #600080;
+  border-bottom: 15px solid #600080;
+  /*border-right: 15px solid #600080; 
+  border-left: 15px solid #600080; */
 }
 /* Wrapper for page content to push down footer */
 #wrap {

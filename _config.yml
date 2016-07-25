@@ -10,17 +10,22 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: https://lphipena.github.io/
-baseurl:
+url: https://lphipena.github.io
+#baseurl: /
 title: Alania Marie Hodge 
 author: Alania Marie Hodge 
 description: Personal blog and resume
 avatar: profile.png
 email: amhodge4@yahoo.com
 github: lphipena.github.io.git # username
-twitter: username
 linkedin: alania-hodge-a70658a4
-stackoverflow: username   #e.g: users/2735833/proton1h1
+tel: +321 321 3211
+tel_full: tel:+2313213211
+google_maps: 'https://www.google.com/maps/place/1768+Nestlewood+Trail,+Orlando,+FL+32837'
+address: 1768 Nestlewood Trail
+postcode: 32837
+city: Orlando
+country: United States of America
 #Comment out if you don't want disqus 
 disqus: username
 google_analytics: UA-69391421-1
