@@ -19,13 +19,13 @@ avatar: profile.png
 email: amhodge4@yahoo.com
 github: lphipena.github.io.git # username
 linkedin: alania-hodge-a70658a4
-tel: +321 321 3211
+tel: +407 452 2729
 tel_full: tel:+2313213211
-google_maps: 'https://www.google.com/maps/place/1768+Nestlewood+Trail,+Orlando,+FL+32837'
-address: 1768 Nestlewood Trail
-postcode: 32837
-city: Orlando
-country: United States of America
+google_maps: 'https://www.google.com/maps/place/6372+Raleigh+St,+Orlando,+FL+32835'
+address: 6372 Raleigh Street apt. 1904
+postcode: 32835 
+city: Orlando, FL
+country: United States 
 #Comment out if you don't want disqus 
 disqus: username
 google_analytics: UA-69391421-1
