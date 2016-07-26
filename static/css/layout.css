@@ -47,7 +47,7 @@ p, address {
     margin-bottom: 20px;
 }
 
-header > h1, section > h1 {
+header > h1, section > h1, section > center > h1 {
     color: #b30047;
 }
 
@@ -70,6 +70,12 @@ section {
 }
 
 section > h1 {
+    font-size: 140%;
+    line-height: 120%;
+    text-transform: uppercase;
+}
+
+section > center > h1 {
     font-size: 140%;
     line-height: 120%;
     text-transform: uppercase;
