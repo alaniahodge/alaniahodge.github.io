@@ -1,8 +1,19 @@
 <nav class="navbar navbar-default">
   <div class="container">
+    {% if page.url == "alaniahodge.com" %}
+
+    <div class="navbar-header">
+      <a class="navbar-brand" href="{{ site.url }}"><i class="fa fa-home"></i></a>
+    </div>
+
+    {% else %}
+
     <div class="navbar-header">
       <a class="navbar-brand" href="{{ site.baseurl }}"><i class="fa fa-home"></i></a>
     </div>
+
+    {% endif %}
+
     <div id="navbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="{{ site.baseurl }}learning.html">Learning Support Services</a></li>
