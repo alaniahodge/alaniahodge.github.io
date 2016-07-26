@@ -32,6 +32,12 @@ p, address {
     margin-bottom: 0;
 }
 
+.img-circle {
+    position: relative;
+    left: -15px;
+    border-radius: 50%;
+}
+
 .me {
     width: 100px;
     height: 100px;
